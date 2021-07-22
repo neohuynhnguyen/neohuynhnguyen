@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @neohuynhnguyen
+- 👋 Hi, I’m huynhnguyen
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on java and javascript
-- 📫 How to reach me ...
+- 📫 Reach me in Danang or fb: Huynh Nguyen
 
 <!---
 neohuynhnguyen/neohuynhnguyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
