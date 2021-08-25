@@ -1,1 +1,1 @@
-- 👋 Hi, I’m huynhnguyen from Vietnam
+- 👋 Hi, I’m Huynhnguyen from Vietnam
